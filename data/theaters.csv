@@ -1,0 +1,51 @@
+theater_id,name,city,country
+1,Amsterdam Filmhuis 1,Uppsala,Germany
+2,Antwerp Filmhuis 2,Eindhoven,Netherlands
+3,Stockholm Filmhuis 3,Salzburg,Austria
+4,Amsterdam Filmhuis 4,Utrecht,Belgium
+5,Liège Filmhuis 5,Innsbruck,Netherlands
+6,Gothenburg Filmhuis 6,Malmö,Sweden
+7,Graz Filmhuis 7,Frankfurt,Sweden
+8,Berlin Filmhuis 8,Örebro,Belgium
+9,Linz Filmhuis 9,Leuven,Belgium
+10,Ghent Filmhuis 10,The Hague,Netherlands
+11,Vienna Filmhuis 11,Hamburg,Germany
+12,Malmö Filmhuis 12,Rotterdam,Austria
+13,Stockholm Filmhuis 13,Munich,Netherlands
+14,Malmö Filmhuis 14,Stockholm,Sweden
+15,Frankfurt Filmhuis 15,Antwerp,Netherlands
+16,Rotterdam Filmhuis 16,Örebro,Germany
+17,Rotterdam Filmhuis 17,The Hague,Austria
+18,Cologne Filmhuis 18,Stockholm,Germany
+19,Ghent Filmhuis 19,Hamburg,Belgium
+20,Berlin Filmhuis 20,Innsbruck,Belgium
+21,Gothenburg Filmhuis 21,Brussels,Austria
+22,Linz Filmhuis 22,Stockholm,Sweden
+23,Ghent Filmhuis 23,Örebro,Netherlands
+24,Brussels Filmhuis 24,Berlin,Austria
+25,Berlin Filmhuis 25,Antwerp,Sweden
+26,Hamburg Filmhuis 26,Stockholm,Austria
+27,Salzburg Filmhuis 27,Eindhoven,Germany
+28,Antwerp Filmhuis 28,Uppsala,Sweden
+29,Malmö Filmhuis 29,Uppsala,Sweden
+30,Innsbruck Filmhuis 30,Munich,Germany
+31,Antwerp Filmhuis 31,Graz,Austria
+32,Amsterdam Filmhuis 32,The Hague,Belgium
+33,Leuven Filmhuis 33,Innsbruck,Netherlands
+34,Salzburg Filmhuis 34,Innsbruck,Austria
+35,Malmö Filmhuis 35,Linz,Netherlands
+36,Eindhoven Filmhuis 36,Örebro,Germany
+37,Berlin Filmhuis 37,Liège,Austria
+38,Leuven Filmhuis 38,Amsterdam,Germany
+39,Gothenburg Filmhuis 39,Graz,Netherlands
+40,Frankfurt Filmhuis 40,Innsbruck,Belgium
+41,Ghent Filmhuis 41,Örebro,Belgium
+42,Örebro Filmhuis 42,Amsterdam,Sweden
+43,Cologne Filmhuis 43,Amsterdam,Netherlands
+44,Munich Filmhuis 44,Ghent,Netherlands
+45,Liège Filmhuis 45,Utrecht,Netherlands
+46,Vienna Filmhuis 46,Örebro,Sweden
+47,Antwerp Filmhuis 47,Gothenburg,Austria
+48,Gothenburg Filmhuis 48,Leuven,Sweden
+49,Uppsala Filmhuis 49,Antwerp,Sweden
+50,Ghent Filmhuis 50,Munich,Germany
